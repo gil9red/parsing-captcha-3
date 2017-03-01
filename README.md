@@ -23,3 +23,17 @@ C:\Python34\pythonw.exe C:/Users/ipetrash/Desktop/PyScripts/parsing-captcha-3/ma
 
 Process finished with exit code 0
 ```
+
+#### Пример работы парсера:
+Файл         | Капча | Результат парсинга
+------------ | ------------ | ------------
+[examples/1.png](examples/1.png) | ![examples/1.png](examples/1.png) | M47
+[examples/2.png](examples/2.png) | ![examples/2.png](examples/2.png) | tM0
+[examples/3.png](examples/3.png) | ![examples/3.png](examples/3.png) | 3Yp
+[examples/4.png](examples/4.png) | ![examples/4.png](examples/4.png) | z5g
+[examples/5.png](examples/5.png) | ![examples/5.png](examples/5.png) | LH3
+[examples/6.png](examples/6.png) | ![examples/6.png](examples/6.png) | i7F
+[examples/7.png](examples/7.png) | ![examples/7.png](examples/7.png) | h70
+[examples/8.png](examples/8.png) | ![examples/8.png](examples/8.png) | wx5
+[examples/9.png](examples/9.png) | ![examples/9.png](examples/9.png) | nE4
+[examples/10.png](examples/10.png) | ![examples/10.png](examples/10.png) | 25m
