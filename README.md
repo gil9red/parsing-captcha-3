@@ -37,3 +37,10 @@ Process finished with exit code 0
 [examples/8.png](examples/8.png) | ![examples/8.png](examples/8.png) | wx5
 [examples/9.png](examples/9.png) | ![examples/9.png](examples/9.png) | nE4
 [examples/10.png](examples/10.png) | ![examples/10.png](examples/10.png) | 25m
+
+#### Мои репозитории с парсерами капчи:
+* https://github.com/gil9red/parser-phone-image
+* https://github.com/gil9red/parsing_captcha
+* https://github.com/gil9red/parsing_captcha-2
+* https://github.com/gil9red/parsing-captcha-3
+* https://github.com/gil9red/hideme.ru-proxy-list
